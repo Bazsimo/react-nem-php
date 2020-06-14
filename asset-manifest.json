@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-nem-php/static/css/main.a1a63c61.chunk.css",
+    "main.js": "/react-nem-php/static/js/main.219ec985.chunk.js",
+    "main.js.map": "/react-nem-php/static/js/main.219ec985.chunk.js.map",
+    "runtime-main.js": "/react-nem-php/static/js/runtime-main.c3ae2fb7.js",
+    "runtime-main.js.map": "/react-nem-php/static/js/runtime-main.c3ae2fb7.js.map",
+    "static/css/2.2b4849b6.chunk.css": "/react-nem-php/static/css/2.2b4849b6.chunk.css",
+    "static/js/2.43aea200.chunk.js": "/react-nem-php/static/js/2.43aea200.chunk.js",
+    "static/js/2.43aea200.chunk.js.map": "/react-nem-php/static/js/2.43aea200.chunk.js.map",
+    "index.html": "/react-nem-php/index.html",
+    "precache-manifest.43dcaad531c001f702b15b213fd17ddb.js": "/react-nem-php/precache-manifest.43dcaad531c001f702b15b213fd17ddb.js",
+    "service-worker.js": "/react-nem-php/service-worker.js",
+    "static/css/2.2b4849b6.chunk.css.map": "/react-nem-php/static/css/2.2b4849b6.chunk.css.map",
+    "static/css/main.a1a63c61.chunk.css.map": "/react-nem-php/static/css/main.a1a63c61.chunk.css.map",
+    "static/js/2.43aea200.chunk.js.LICENSE.txt": "/react-nem-php/static/js/2.43aea200.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/react-nem-php/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3ae2fb7.js",
+    "static/css/2.2b4849b6.chunk.css",
+    "static/js/2.43aea200.chunk.js",
+    "static/css/main.a1a63c61.chunk.css",
+    "static/js/main.219ec985.chunk.js"
+  ]
+}
